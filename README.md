@@ -1,2 +1,4 @@
 # Food-Vision-Mini
-Project from ZTM course on PyTorch. Computer Vision Classification Model using Neural Networks !
+Computer Vision Classification Model using Neural Networks !
+
+The aim of this project is to see if we can build a Classification Model to detect each type of food.
